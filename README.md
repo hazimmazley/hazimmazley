@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @hazimmazley
-- </> Laravel, Vuejs, Tailwindcss
-- Work https://github.com/hazim-recursivex
+# Hi, I'm Hazim 👋
 
-<!---
-hazimmazley/hazimmazley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack Developer | Shopify App Specialist**
+
+Building high-quality Shopify apps that earn the **"Built for Shopify"** badge.
+
+### Tech Stack
+Laravel • React.js • PHP • MySQL • GraphQL • Liquid • Tailwind CSS
+
+### What I Do
+- Shopify app development (custom apps, public apps, Polaris, Shopify APIs)
+- Enterprise web application solutions
+- CI/CD, automated testing (PHPUnit, Cypress), AWS, and Cloudflare
+
+### Work
+🔗 [github.com/hazim-recursivex](https://github.com/hazim-recursivex)

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hazim 👋</h1>
+<h1 align="center">Hi there, I'm Hazim</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal" />
